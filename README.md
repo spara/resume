@@ -2,7 +2,7 @@
 
 #### sophia.parafina@gmail.com * 512 293-7377 * San Antonio, TX * [download](https://github.com/spara/resume/blob/master/sophia_parafina_2019.pdf)
 ---
-I mix advanced leadership principals with software development to achieve  business goals. Putting mission first and striving for breakthroughs in capability
+I mix advanced leadership principals with software development to achieve  business goals. Putting mission first and striving for breakthroughs in capability.
 
 ## Skills
 
