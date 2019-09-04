@@ -1,8 +1,8 @@
 # Sophia Parafina
 
-#### sophia.parafina@gmail.com * 512 293-7377 * San Antonio, TX * [download](./sophia_parafina_2019.pdf)
+#### sophia.parafina@gmail.com * 512 293-7377 * San Antonio, TX
 ---
-Experienced technical professional who can execute on both business and technical objectives. T-shaped generalist with wide and deep technical skills.
+I mix advanced leadership principals with software development to achieve  business goals. Putting mission first and striving for breakthroughs in capability
 
 ## Skills
 
