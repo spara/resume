@@ -30,7 +30,7 @@ Docker 1/2016-8/2018
 - Presented at meetups, Java One, Node.js, and DockerCon
 - Team member producing certification exam for Docker Certified Associate
 
-**Fellow**
+**Fellow**\
 Code for America 1/2013-12/2013
 - Developed [Ohana API](https://github.com/codeforamerica/ohana-api), an open source human services directory for San Mateo County
 - Won [Knight News Challenge Grant](https://knightfoundation.org/grants/201447979/) to continue work on Ohana API
@@ -40,7 +40,7 @@ Code for America 1/2013-12/2013
 2010-2016
 
 - timbre.io - IoT vulnerability research
-- Docker - Manage DockerCon 2016 speaker
+- Docker - Manage DockerCon 2016 CFP and speakers
 - JetPac - Applying machine learning to social media
 - Thorne - Data hygiene to support stopping child exploitation
 - InfoChimps - Created Hadoop hybrid big data spatial database
