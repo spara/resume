@@ -53,12 +53,9 @@ Senior Program Manager, In-Q-Tel 2000-2002
 
 ## Education
 
-**Texas A&M University**\
-ABD - Forest Science 1991-1994\
-**University of Florida**\
-MA - Geography 1988-1991\
-**University of Texas**\
-BA - History 1983-1988
+**Texas A&M University:**   `ABD - Forest Science 1991-1994`\
+**University of Florida:**      `MA - Geography 1988-1991`\
+**University of Texas:**        `BA - History 1983-1988`
 
 ## Languages
 
