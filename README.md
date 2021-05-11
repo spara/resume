@@ -2,7 +2,6 @@
 
 #### sophia.parafina@gmail.com * 512 293-7377 * San Antonio, TX * [download](https://github.com/spara/resume/blob/master/sophia_parafina_2019.pdf)
 ---
-I mix advanced leadership principals with software development to achieve  business goals. Putting mission first and striving for breakthroughs in capability.
 
 ## Skills
 
@@ -10,9 +9,19 @@ I mix advanced leadership principals with software development to achieve  busin
 Java, C, C#, Ruby, Python, bash, SQL, Javascript, Perl
 
 **Software and Platforms**\
-Kubernetes, Knative, GCP, EKS, AWS, Docker, Oracle, Postgres, MySQL, MongoDB, Elasticsearch, Redis, Kibana, React, R, Jupyter Notebook
+Kubernetes, Knative, GCP, EKS, AWS, Azure, Docker, Oracle, Postgres, MySQL, MongoDB, Elasticsearch, Redis, Kibana, React, R, Jupyter Notebook
 
 ## Experience
+
+**Developer Advocate**\
+Pulumi 9/2019-present
+
+- [Writing Portfolio](https://authory.com/sophiaparafina) 
+- Manage blog content
+- Authoring weekly technical blog posts with code
+- Review and edit documentation and code examples
+- Teach workshops
+- Manage social media accounts
 
 **Senior Product Manager**\
 Anaconda 8/2018-8/2019
