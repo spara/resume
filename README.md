@@ -9,10 +9,10 @@ San Antonio, TX
 ## Skills
 
 **Programming Languages**\
-Java, C, C#, Ruby, Python, bash, SQL, Javascript, Perl
+Java, C, C#, Ruby, Python, bash, SQL, Typesript, JavaScript, Perl
 
-**Software and Platforms**\
-Kubernetes, Knative, GCP, EKS, AWS, Azure, Docker, Oracle, Postgres, MySQL, MongoDB, Elasticsearch, Redis, Kibana, React, R, Jupyter Notebook
+**Software/Platforms/Frameworks**\
+Kubernetes, Knative, GCP, AWS, Azure, Docker, Oracle, Postgres, MySQL, MongoDB, Elasticsearch, Redis, Kibana, React, R, Jupyter
 
 ## Experience
 
