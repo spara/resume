@@ -1,6 +1,7 @@
 # Sophia Parafina
 
-#### sophia.parafina@gmail.com * 512 293-7377 * San Antonio, TX *
+sophia.parafina@gmail.com <br>
+San Antonio, TX
 ---
 
 ## Skills
