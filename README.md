@@ -62,6 +62,10 @@ Director of Operations, OpenGeo 2009-2010\
 Director of Integration, Erdas 2007-2009\
 Founder & Chief Technology Officer, Ionic Enterprise 2002-2007\
 Senior Program Manager, In-Q-Tel 2000-2002
+Senior Scientist, URS 1997-2000
+Senior Analyst, GIS/Trans 1996-1997
+Senior Project Manager, Isis 1996
+Programmer III, City of Austin,TX 1995-1996
 
 ## Education
 
