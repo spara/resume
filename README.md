@@ -1,6 +1,7 @@
 # Sophia Parafina
 
 sophia.parafina@gmail.com <br>
+[Linkedin](https://www.linkedin.com/in/sophiaparafina/) <br>
 San Antonio, TX
 ---
 
