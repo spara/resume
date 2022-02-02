@@ -1,30 +1,36 @@
 # Sophia Parafina
 
 sophia.parafina@gmail.com <br>
-[Linkedin](https://www.linkedin.com/in/sophiaparafina/) <br>
-
-San Antonio, TX
+San Antonio, TX & Albuquerque, NM
 ---
+
+**SUMMARY:** Thirty years of experience in software development (full-stack), cloud (devops, Kubernetes, containers), machine learning,  GIS & remote sensing,  startups, engineering management, marketing, and developer relations.\
+
+**Writing**: https://authory.com/sophiaparafina \
+**Code**: https://github.com/spara \
+**Linkedin**: https://www.linkedin.com/in/sophiaparafina/ 
 
 ## Skills
 
-**Programming Languages**\
-Java, C, C#, Ruby, Python, bash, SQL, Typesript, JavaScript, Perl
+**Programming**: Typescript, Javascript. Java, C, Ruby, Python, Perl\
+**Software**: Oracle, Postgres, MySQL, MongoDB, Elasticsearch, Redis, Kibana, R, Jupyter Notebook, Cloud & DevOps: Docker, Kubernetes, AWS, GKE, Azure, serverless, Pulumi. microservices\
+**Languages**:  English (native), French (proficient), Haitian Creole (proficient), Spanish (basic), Tagalog (basic)
 
-**Software/Platforms/Frameworks**\
-Kubernetes, Knative, GCP, AWS, Azure, Docker, Oracle, Postgres, MySQL, MongoDB, Elasticsearch, Redis, Kibana, React, R, Jupyter
+## Employers
 
-## Experience
+**Lead Developer Evangelist** \
+HERE Technologies (current): 
+
+- Application development using HERE data products and services
+- Deploying CI/CD pipelines
+- Content creation: mapping applications, blogging, tutorials, and videos
 
 **Developer Advocate**\
 Pulumi 9/2019-present
 
-- [Writing Portfolio](https://authory.com/sophiaparafina) 
-- Manage blog content
-- Authoring weekly technical blog posts with code
-- Review and edit documentation and code examples
-- Teach workshops
-- Manage social media accounts
+- Experienced with DevOps and cloud resources, including serverless, containers, and Kubernetes on AWS, Azure, and Google Cloud Platform
+- Authored twice-weekly technical blog posts with code that drove organic search through generating 25% of site traffic week over week.
+- Wrote software documentation and delivered workshops and presentations
 
 **Senior Product Manager**\
 Anaconda 8/2018-8/2019
@@ -52,7 +58,6 @@ Code for America 1/2013-12/2013
 2010-2016
 
 - timbre.io - IoT vulnerability research
-- Docker - Manage DockerCon 2016 CFP and speakers
 - JetPac - Applying machine learning to social media
 - Thorne - Data hygiene to support stopping child exploitation
 - InfoChimps - Created Hadoop hybrid big data spatial database
@@ -61,17 +66,17 @@ Code for America 1/2013-12/2013
 Director of Operations, OpenGeo 2009-2010\
 Director of Integration, Erdas 2007-2009\
 Founder & Chief Technology Officer, Ionic Enterprise 2002-2007\
-Senior Program Manager, In-Q-Tel 2000-2002
-Senior Scientist, URS 1997-2000
-Senior Analyst, GIS/Trans 1996-1997
-Senior Project Manager, Isis 1996
-Programmer III, City of Austin,TX 1995-1996
+Senior Program Manager, In-Q-Tel 2000-2002\
+Senior Scientist, URS 1997-2000\
+Senior Analyst, GIS/Trans 1996-1997\
+Senior Project Manager, Isis 1996\
+Programmer III, City of Austin,TX 1995-1996\
 
 ## Education
 
 **Texas A&M University:**   ABD - Forest Science 1991-1994\
 **University of Florida:**      MA - Geography 1988-1991\
-**University of Texas:**        BA - History 1983-1988`
+**University of Texas:**        BA - History 1983-1988
 
 ## Languages
 
